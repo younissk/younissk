@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="YOUR_BANNER_GIF_OR_SVG_URL_HERE" alt="Youniss Kandah banner" width="100%" />
+  <img src="YOUR_BANNER_GIF_OR_SVG_URL_HERE" alt="Youniss banner" width="100%" />
 </p>
 
-<h1 align="center">Youniss Kandah</h1>
+<h1 align="center">Youniss</h1>
 <p align="center">
   <strong>Applied AI Engineer</strong> · LLM Systems · Retrieval / RAG · FastAPI · TypeScript · Product-minded backend
 </p>
